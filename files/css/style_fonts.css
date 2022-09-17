@@ -1,0 +1,63 @@
+@font-face{
+   font-family: "Ubuntu-Bold.ttf";
+   src: url("fuentefancy.eot");
+   src: url("fuentefancy.eot?#amocristalab") format("embedded-opentype"),
+        url("Ubuntu-Bold.woff") format("woff"),
+        url("../fonts/Ubuntu-Bold.ttf") format("truetype"),
+        url("fuentefancy.svg#IDdelafuente") format("svg");
+}
+
+.font1{
+font-family:"Ubuntu-Bold.ttf";
+}
+#font1{
+font-family:"Ubuntu-Bold.ttf";
+}
+
+@font-face{
+   font-family: "raleway_thin";
+   src: url("fuentefancy.eot");
+   src: url("fuentefancy.eot?#amocristalab") format("embedded-opentype"),
+        url("raleway_thin.ttf") format("woff"),
+        url("../fonts/raleway_thin.ttf") format("truetype"),
+        url("fuentefancy.svg#IDdelafuente") format("svg");
+}
+
+.font2{
+font-family:"raleway_thin";
+}
+#font2{
+font-family:"raleway_thin";
+}
+
+@font-face{
+   font-family: "Oxygen-Bold";
+   src: url("fuentefancy.eot");
+   src: url("fuentefancy.eot?#amocristalab") format("embedded-opentype"),
+        url("Oxygen-Bold.ttf") format("woff"),
+        url("../fonts/Oxygen-Bold.ttf") format("truetype"),
+        url("fuentefancy.svg#IDdelafuente") format("svg");
+}
+
+.font3{
+font-family:"Oxygen-Bold";
+}
+#font3{
+font-family:"Oxygen-Bold";
+}
+
+@font-face{
+   font-family: "Asap-VariableFont_wght";
+   src: url("fuentefancy.eot");
+   src: url("fuentefancy.eot?#amocristalab") format("embedded-opentype"),
+        url("Asap-VariableFont_wght.ttf") format("woff"),
+        url("../fonts/Asap-VariableFont_wght.ttf") format("truetype"),
+        url("fuentefancy.svg#IDdelafuente") format("svg");
+}
+
+.font3{
+font-family:"Asap-VariableFont_wght";
+}
+#font3{
+font-family:"Asap-VariableFont_wght";
+}
